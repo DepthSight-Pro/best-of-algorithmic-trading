@@ -55,11 +55,15 @@ labels:
     description: "Telegram"
 
 projects:
+  - name: DepthSight
+    github_id: DepthSight-Pro/DepthSight
+    category: bots-frameworks
+    labels: ["python", "nodejs"]
   - name: Crypto Pump Scanner
     github_id: stefanoviana/crypto-pump-scanner
     category: bots-frameworks
     labels: ["python"]
-    description: Real-time pump detection for Bybit, monitors 500+ pairs every 3s with cascade TP.
+    description: Real-time pump detection for Bybit, monitors 500+ pairs every 3s with cascade TP.  
   - name: Lumibot
     github_id: Lumiwealth/lumibot
     category: bots-frameworks
